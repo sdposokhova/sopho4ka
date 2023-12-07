@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @sopho4ka
-- 👀 I’m interested in doing my IT homework in time
-- 🌱 I’m currently learning C++ :))
+
 
 
 <!---
